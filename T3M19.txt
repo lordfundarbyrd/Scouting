@@ -1,0 +1,15 @@
+Match: 3
+Team: 19
+Line Crossed: true
+Auto Low: 2
+Auto Outer: 34
+Auto Inner: 55
+TeleOp Low: 53
+TeleOp Outer: 24
+TeleOp Inner: 242
+Attempt Rotation Ctrl: true
+Attempt Position Ctrl: true
+Park: true
+Climb: true
+Level: true
+Comments: erhtui43yeuitfgheukhfku34weyhuitfghk
